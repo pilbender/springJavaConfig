@@ -66,7 +66,7 @@
 							</descriptorRefs>
 							<archive>
 								<manifest>
-									<mainClass>com.raescott.springjavaconfig.App</mainClass>
+									<mainClass>net.raescott.springjavaconfig.App</mainClass>
 								</manifest>
 							</archive>
 						</configuration>
