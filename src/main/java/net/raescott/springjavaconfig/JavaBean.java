@@ -1,4 +1,4 @@
-package com.raescott.springjavaconfig;
+package net.raescott.springjavaconfig;
 
 /**
  *

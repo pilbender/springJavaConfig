@@ -1,4 +1,4 @@
-package com.raescott.springjavaconfig;
+package net.raescott.springjavaconfig;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

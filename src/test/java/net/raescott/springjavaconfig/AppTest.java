@@ -1,4 +1,4 @@
-package com.raescott.springjavaconfig;
+package net.raescott.springjavaconfig;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
